@@ -7,7 +7,7 @@ necessários para rodar o script.
 
 ## Questões
 
-| Question | Description |
+| Questão | Descrição |
 |---|---|
 |01| Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. |
 |02| Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas. | 
